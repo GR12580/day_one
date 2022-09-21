@@ -1,1 +1,1 @@
-goodbye git
+good git
